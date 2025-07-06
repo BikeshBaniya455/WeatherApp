@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+*{
+
+    box-sizing: border-box;
+    margin:0;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding:0 ;
+
+}
+/* body{
+    background-image:url('./assets/Images/weather1.webp');
+    background-size: cover;
+    background-position: center;
+    color:white;
+    background-repeat:no-repeat;
+} */
